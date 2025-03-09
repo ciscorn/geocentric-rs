@@ -1,7 +1,7 @@
 # geocentric-rs
 
-[![Test](https://github.com/MIERUNE/geocentric-rs/actions/workflows/Test.yml/badge.svg)](https://github.com/MIERUNE/geocentric-rs/actions/workflows/Test.yml)
-[![codecov](https://codecov.io/gh/MIERUNE/geocentric-rs/graph/badge.svg?token=zWu8h2egPG)](https://codecov.io/gh/MIERUNE/geocentric-rs)
+[![Test](https://github.com/ciscorn/geocentric-rs/actions/workflows/Test.yml/badge.svg)](https://github.com/ciscorn/geocentric-rs/actions/workflows/Test.yml)
+[![codecov](https://codecov.io/gh/ciscorn/geocentric-rs/graph/badge.svg?token=zWu8h2egPG)](https://codecov.io/gh/ciscorn/geocentric-rs)
 
 Conversion between geodetic (geographic) coordinates and geocentric (cartesian) coordinates in Rust.
 
@@ -35,4 +35,4 @@ MIT
 
 ## Author
 
-- Taku Fukada ([@ciscorn](https://github.com/ciscorn))
+Taku Fukada ([@ciscorn](https://github.com/ciscorn))
