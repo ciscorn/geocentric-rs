@@ -1,5 +1,9 @@
 # geocentric-rs
 
+> ⚠️ This crate’s functionality has been integrated into [georust/geographiclib-rs](https://github.com/georust/geographiclib-rs). Please use that crate instead.
+
+---
+
 [![Test](https://github.com/ciscorn/geocentric-rs/actions/workflows/Test.yml/badge.svg)](https://github.com/ciscorn/geocentric-rs/actions/workflows/Test.yml)
 [![codecov](https://codecov.io/gh/ciscorn/geocentric-rs/graph/badge.svg?token=zWu8h2egPG)](https://codecov.io/gh/ciscorn/geocentric-rs)
 
